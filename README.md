@@ -1,16 +1,21 @@
-## Hi there 👋
+Hi there 👋, I'm Sumitra.
 
-<!--
-**Sumitraadhya/sumitraadhya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⚡ I am an Electronics & Communication Engineer, telecom professional, upskilling myself to embark into the world of Data Engineering.
 
-Here are some ideas to get you started:
+🌱 I’m currently learning Power BI, Python, SQL, Advance Excel.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 How to reach me addhyasumitra90@gmail.com
+
+Connect with me:
+https://www.linkedin.com/in/sumitraadhya
+
+Languages and Tools:
+PowerBi,
+Excel,
+mysql, 
+python,
+pandas, 
+git, 
+aws,
+
+

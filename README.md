@@ -10,12 +10,12 @@ Connect with me:
 https://www.linkedin.com/in/sumitraadhya
 
 Languages and Tools:
-PowerBi,
-Excel,
-mysql, 
-python,
-pandas, 
-git, 
-aws,
+⚡PowerBi
+⚡Excel
+⚡mysql
+⚡python
+⚡pandas
+⚡git
+⚡aws
 
 

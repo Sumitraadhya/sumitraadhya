@@ -1,8 +1,8 @@
 Hi there 👋, I'm Sumitra.
 
-⚡ I am an Electronics & Communication Engineer, telecom professional, upskilling myself to embark into the world of Data Engineering.
+⚡ I am an Electronics & Communication Engineer, telecom & Finance domain professional.
 
-🌱 I’m currently learning Power BI, Python, SQL, Advance Excel.
+🌱 I have experties in Power BI, Python, SQL, Advance Excel.
 
 📫 How to reach me addhyasumitra90@gmail.com
 
